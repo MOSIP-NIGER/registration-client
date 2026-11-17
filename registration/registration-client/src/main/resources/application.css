@@ -2126,7 +2126,7 @@ Working on new Css by taleev
 }
 
 .operationalPaneDetails:hover, .operationalPaneDetails:hover .label {
-	-fx-background-color: #025C1B;no
+	-fx-background-color: #025C1B;
 	-fx-border-color: #025C1B;
 	-fx-text-fill: #FFFFFF;
 }
